@@ -1,4 +1,4 @@
-# TheTechSociety
+# TheTechSociety officially founded on april 23rd 2019 
 The Best Technology Collaboration Group Ever!
 Number 1 Be in love with Tech or Just leave. (We do stand by a nice Tech Diet From time to time) 
 Number 2 important but not really as much as Number 1. When you want to talk about a topic please open a Pull Request and Ask us to start a .txt file to edit for that topic of conversation. 
