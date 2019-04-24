@@ -26,3 +26,4 @@ A watch is worth 0.00018 btc
 
 
 if you record a screencast or 30 mins of screenshots of each post or Fb msg for 30 miniutes adding them to a folder with your GitHub name and Show 30 mins of promoting Developers For Rent Referral Program sign up link. it's worth 0.00072 BTC only 6 hours Left for grabs at the moment 
+DUE to FEES from the Blockchain Payouts made at 0.018 BTC for Fee Free transfer Or you Pay the BlockChain transaction Fee 
