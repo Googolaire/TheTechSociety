@@ -24,7 +24,7 @@ Signing the Roster for the first time is worth 0.000045 btc <strong>Signing the 
 A fork is worth 0.00018 btc 
 A watch is worth 0.00018 btc
 
-<strong> Actual work Provided By Community Sponsors  </strong>
+<strong> Actual work Provided By Community Sponsors Found in Jobs.txt </strong>
 if you record a screencast or 30 mins of screenshots of each post or Fb msg for 30 miniutes adding them to a folder with your GitHub name and Show 30 mins of promoting Developers For Rent Referral Program sign up link. it's worth 0.00072 BTC only 6 hours Left for grabs at the moment Task Details and Instructions are in the Folder Gigs
 
 Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.com/blog/git-cheat-sheet 
