@@ -21,11 +21,12 @@ List of things you can commit to start earning btc small chuncks of BTC
 
 Signing the Roster for the first time is worth 0.000045 btc <strong>Signing the Roster is required to earn any btc</strong> 
 
-A fork is worth 0.00018 btc 
-A watch is worth 0.00018 btc
+A fork on here is worth 0.00018 btc 
+A watch on here is worth 0.00018 btc
+A star on here is worth 0.00018 btc
 
 <strong> Actual work Provided By Community Sponsors Found in Jobs.txt </strong>
-if you record a screencast or 30 mins of screenshots of each post or Fb msg for 30 miniutes adding them to a folder with your GitHub name and Show 30 mins of promoting Developers For Rent Referral Program sign up link. it's worth 0.00072 BTC only 6 hours Left for grabs at the moment Task Details and Instructions are in the Folder Gigs
+Can be Found in the Jobs.txt File
 
 Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.com/blog/git-cheat-sheet 
 DUE to FEES from the Blockchain Payouts made at 0.018 BTC for Fee Free transfer Or you Pay the BlockChain transaction Fee
