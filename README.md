@@ -19,7 +19,7 @@ Currently, Every commit you make to our society is worth 0.0000018 BTC each tran
 
 List of things you can commit to start earning btc 
 
-Signing the Roster for the first time is worth 0.000045 btc <strong>Signing the Roster is required to earn any btc</strong? 
+Signing the Roster for the first time is worth 0.000045 btc <strong>Signing the Roster is required to earn any btc</strong> 
 
 A fork is worth 0.00018 btc 
 A watch is worth 0.00018 btc
