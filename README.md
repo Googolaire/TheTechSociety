@@ -1,6 +1,6 @@
 # TheTechSociety officially founded on April 23rd 2019 
 Earn BTC In The Best Technology Collaboration Group Ever!
-Number 1 Be in love with Tech or Just leave. <strong>Also DO NOT MAKE EDITS to this README.md Only The Founders Upper-Level Board Advisors cam to keep Order</strong>
+Number 1 Be in love with Tech or Just leave. <strong>Also DO NOT MAKE EDITS to this README.md Only The Founders Upper-Level Board Advisors can to keep Order</strong>
 Number 2 important but not really as much as Number 1. When you want to talk about a topic please open a Pull Request and Ask us to start a .txt file to edit for that topic of conversation. 
 Number 3 Commits will be rewarded with Bitcoin From the Community Bank DONATIONS WELCOMED and Perks are Given!
 
