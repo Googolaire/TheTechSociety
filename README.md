@@ -1,6 +1,6 @@
 # TheTechSociety officially founded on April 23rd 2019 
 Earn BTC In The Best Technology Collaboration Group Ever!
-Number 1 Be in love with Tech or Just leave.  
+Number 1 Be in love with Tech or Just leave. <strong>Also DO NOT MAKE EDITS to this README.md Only The Founders Upper-Level Board Advisors cam to keep Order</strong>
 Number 2 important but not really as much as Number 1. When you want to talk about a topic please open a Pull Request and Ask us to start a .txt file to edit for that topic of conversation. 
 Number 3 Commits will be rewarded with Bitcoin From the Community Bank DONATIONS WELCOMED and Perks are Given!
 
@@ -17,15 +17,15 @@ If you want to make a long-lasting impact on the Internet. it only takes a commi
 
 Currently, Every commit you make to our society is worth 0.0000018 BTC each transaction hash will be shared on the roster with your name. Only 0.018 BTC is in the community bank given by the founder. 
 
-List of things you can commit to start earning btc 
+List of things you can commit to start earning btc small chuncks of BTC 
 
 Signing the Roster for the first time is worth 0.000045 btc <strong>Signing the Roster is required to earn any btc</strong> 
 
 A fork is worth 0.00018 btc 
 A watch is worth 0.00018 btc
 
-
-if you record a screencast or 30 mins of screenshots of each post or Fb msg for 30 miniutes adding them to a folder with your GitHub name and Show 30 mins of promoting Developers For Rent Referral Program sign up link. it's worth 0.00072 BTC only 6 hours Left for grabs at the moment 
+<strong> Actual work Provided By Community Sponsors  </strong>
+if you record a screencast or 30 mins of screenshots of each post or Fb msg for 30 miniutes adding them to a folder with your GitHub name and Show 30 mins of promoting Developers For Rent Referral Program sign up link. it's worth 0.00072 BTC only 6 hours Left for grabs at the moment Task Details and Instructions are in the Folder Gigs
 
 Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.com/blog/git-cheat-sheet 
 DUE to FEES from the Blockchain Payouts made at 0.018 BTC for Fee Free transfer Or you Pay the BlockChain transaction Fee
