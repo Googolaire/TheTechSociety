@@ -27,6 +27,8 @@ A star on here is worth 0.00018 btc
 
 <strong> Actual work Provided By Community Sponsors Found in Jobs.txt </strong>
 Can be Found in the Jobs.txt File
+<br>
+When you want to do a job in the Jobs.txt file you need to raise an issue with a label <strong>"Earnings Claim"</strong> This is a Must  in order to Earn because we need to know who is working on what! An update for work Proof is expected within 24 hours of an earnings Claim! Or your claim is revoked! 
 
 Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.com/blog/git-cheat-sheet 
 DUE to FEES from the Blockchain Payouts made at 0.018 BTC for Fee Free transfer Or you Pay the BlockChain transaction Fee
