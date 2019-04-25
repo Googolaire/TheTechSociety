@@ -2,7 +2,7 @@
 
 This is a list of Actual jobs Offers To our Community From our Sponsorship 
 
-if you record a screencast of 30 mins or take screenshots of each post or Fb msg for 30 minutes adding them to a folder with your GitHub name and Show 30 mins of promoting Developers For Rent Referral Program sign up link. it's worth 0.00072 BTC only 6 hours Left for grabs at the moment 
+Every time you share the below post with some one or in a post of fb or in messanger take a screenshot and its worth 0.000012 Bitcoin
 
 Share the Below Message or post over and over all through out social Networks & Business related Groups Affiliate Groups Ect  **No WEB DEVELOPMENT GROUPS Or Sofware Development Groups**! 
 
