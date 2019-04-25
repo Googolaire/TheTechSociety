@@ -1,7 +1,7 @@
 function most_cccurring_numbers(items)
 {
 	//Default variables.
-	var rVal = 1, items , count = i = 0, j;
+	var rVal = 1, item , count = i = 0, j;
 	items.push('');
 	//Loop as row and col.
 	for (i; i < items.length; i++) {
