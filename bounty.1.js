@@ -6,8 +6,6 @@ function most_cccurring_numbers(items)
 	//Loop as row and col.
 	for (i; i < items.length; i++) {
 		for (j = i; j < items.length; j++) {
-			console.log('i ' + items[i]);
-			console.log('j ' + items[j]);
 			//Determine either i == j?
 			if (items[i] == items[j]) {
 				count++;
