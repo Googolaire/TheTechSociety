@@ -3,7 +3,7 @@ Make a Major Impact On the Internet
 Join A Community that loves what you love!
 Earn BTC In The Best Technology Collaboration Group Ever!
 Number 1 Be in love with Tech or Just leave. <strong>Also DO NOT MAKE EDITS to this README.md Only The Founders and Upper-Level Board Advisors can to keep Order</strong>
-Number 2 important but not really as much as Number 1. When you want to talk about a topic please open a Pull Request and Ask us to start a .txt file to edit for that topic of conversation. Or Find A commit that is (talking point) and Comment on the Commit 
+Number 2 important but not really as much as Number 1. When you want to talk about a topic please open a Pull Request and Ask us to start a .txt file to edit for that topic of conversation. Or Find A commit that is a (talking point) and Comment on the Commit 
 Number 3 Commits will be rewarded with Bitcoin From the Community Bank DONATIONS WELCOMED and Perks are Given! <strong>first Contributed first Awarded Meaning first come first serve When it comes to earnings from the community bank. This is a competition and a community. not a job </strong>
 
 BTC Wallet 14nNnBL91sAbNpww9oazzEnzP5oyd1ShXj
