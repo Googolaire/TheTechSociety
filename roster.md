@@ -5,7 +5,7 @@ This is just to know who is with us.
 Founders Have The Majority Rule At this moment of Establishment 
 Founding Leaders
 Founder Hunter M. Maxwell aka Googolaire
-Co-Founder Pending Entry
+Co-Founder Grand Barnes Pending Entry Approval
 Upper Level You Need to Join this Level to Earn More Voting Power In the Community And More Very Important Perks Must Be Approved by a majority of Upper Level Members
 This level can be joined by Making a double the Community Bank Donation to the Community Bank 
 BTC Wallet 14nNnBL91sAbNpww9oazzEnzP5oyd1ShXj
