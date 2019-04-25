@@ -32,5 +32,4 @@ When you want to do a job in the Jobs.txt file you need to raise an issue with a
 
 Feel Free to make Comments on Commits to talk and Enjoy Yourself as a Group You will find 
 Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.com/blog/git-cheat-sheet 
-DUE to FEES from the Blockchain Payouts made at 0.018 BTC for Fee Free transfer Or you Pay the BlockChain transaction Fee
-
+<strong>BTC is Paid Out Every 24 hours</strong> (Approval Of the Board Is Required)
