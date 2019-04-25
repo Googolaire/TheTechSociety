@@ -11,7 +11,7 @@ This level can be joined by Making a double the Community Bank Donation to the C
 BTC Wallet 14nNnBL91sAbNpww9oazzEnzP5oyd1ShXj
 Or by making an equal Amount of Contribution with Skill 
 
-<strong>Mid-level</strong> need to be Approved by Upper Level Members Baed On Contribustion Fastest way here is Proving your Commitment To The Tech Society 
+<strong>Mid-level</strong> need to be Approved by Upper Level Members Baed On Contribustion Fastest way here is Proving your Commitment To The Tech Society For Free Building Community Stuff and Helping Community Leaders Achieve more
 
 <strong>low-level</strong><em>Where Everyone Starts</em>
 
