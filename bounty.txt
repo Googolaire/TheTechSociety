@@ -1,6 +1,6 @@
 This is a list of Bounties being offered By The community Only 1 Winner Per Bounty First one Approved Wins BTC
 
-1.) 
+1.) Claimed https://www.blockchain.com/btc/tx/cd03ac15fd0bf320df43f49f1b8ba090ae12053f2e09de4a7d5be75169a47667
 Finding the Most Frequently Occurring Number
 Given an array of numbers, find the most recurrent number.
 
