@@ -15,7 +15,7 @@ We are at a point where we want to make a team a culture that can stand strong a
 
 If you want to make a long-lasting impact on the Internet. it only takes a commit ment to our Tech Society 
 
-Currently, Every commit you make to our society is worth 0.0000018 BTC each transaction hash will be shared on the roster with your name. Only 0.018 BTC is in the community bank given by the founder. 
+Currently, Every commit you make to our society is worth 0.0000018 BTC each transaction hash will be shared on the roster with your name. Only 0.018 BTC is in the community bank given by our sponsor https://devs4rent.com  
 
 List of things you can commit to start earning btc small chuncks of BTC 
 
