@@ -35,3 +35,8 @@ When you want to do a job in the Jobs.txt file you need to raise an issue with a
 Feel Free to make Comments on Commits to talk and Enjoy Yourself as a Group You will find 
 Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.com/blog/git-cheat-sheet 
 <strong>BTC is Paid Out Every 24 hours</strong> (Approval Of the Board Is Required)
+
+
+
+
+<h5>For any unrewarded payment claims please message our founder fb.com/googolaire</h5>
