@@ -1,4 +1,4 @@
-# TheTechSociety officially founded on April 23rd 2019 
+# TheTechSociety τΤΣ - ταυ tau sigma The Tech Society officially founded on April 23rd 2019 
 Make a Major Impact On the Internet 
 Join A Community that loves what you love!
 Earn BTC In The Best Technology Collaboration Group Ever!
