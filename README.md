@@ -17,7 +17,7 @@ We are at a point where we want to make a team a culture that can stand strong a
 
 If you want to make a long-lasting impact on the Internet. it only takes a commit ment to our Tech Society 
 
-Currently, Every commit you make to our society is worth 0.0000018 BTC each transaction hash will be shared on the roster with your name. Only 0.018 BTC is in the community bank given by our sponsor https://devs4rent.com  
+Currently, Every commit you make to our society is worth 0.0000018 BTC paid out weekly each transaction hash will be shared on the roster with your name. Only 0.018 BTC is in the community bank given by our sponsor https://devs4rent.com  <strong>first Contributed first Awarded Meaning first come first serve When it comes to earnings from the community bank. This is a competition and a community. not a job If you fail to make a free contribution to the Community at least every 30 days you will be revoked from Further Participation Bare Minnimue Commit-ment Won't be rewarded</strong>
 
 List of things you can commit to start earning btc small chuncks of BTC 
 
