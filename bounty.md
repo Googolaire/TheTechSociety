@@ -1,4 +1,4 @@
-#This is a list of Bounties being offered By The community Only 1 Winner Per Bounty First one Approved Wins BTC
+### This is a list of Bounties being offered By The community Only 1 Winner Per Bounty First one Approved Wins BTC
 
  - Finding the Most Frequently Occurring Number
    - Given an array of  numbers, find the most recurrent number.
