@@ -1,7 +1,7 @@
 **Jobs By Sponsors**
 
 This is a list of Actual jobs Offers To our Community From our Sponsorship 
-
+<strong>Make MONEY Taking Screenshots About .07 cents per Screenshot!</strong>
 Every time you share the below post with some one or in a post on fb or in messanger or on reddit anywhere take a screenshot and its worth 0.000012 Bitcoin Only 1200 Screenshots left for this Reward. For you to Submit your Screenshot commit a link make a https://www.flickr.com/  its free share your link to by commiting you earn an extra 0.0000018 BTC each commit you make also those are paid weekly   or A similar Service and your wallet address <strong>Each Screenshot Needs to be Unique</strong> 
 
 Share the Below Message or post over and over all through out social Networks & Business related Groups Affiliate Groups Ect  **No WEB DEVELOPMENT GROUPS Or Sofware Development Groups**! 
