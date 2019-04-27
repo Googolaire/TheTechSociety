@@ -21,12 +21,14 @@ function fizz(n)
 }
 function buzz(n)
 {
-	var rN = [], x;
-	x = multiple_of_number(n, 5);
-	for (let i = 0; i < x.length ; i++) {
-		console.log('fizz');
-		rN.push("buzz");
+	var rN = [];
+	for (let i = 1; i <= n; i++) {
+		if (i % 3 == 0 && i % 5) {
+			rN.push('fizzbuzz');
+		}
 	}
+
+	return rN;
 
 	return rN;
 }
