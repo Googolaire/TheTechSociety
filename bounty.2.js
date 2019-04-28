@@ -32,12 +32,18 @@ function buzz(n)
 
 	return rN;
 }
+
 function fizz_buzz(n)
 {
-	return {
-		'fizz': fizz(n),
-		'buzz': buzz(n)		
-	};
+	var rN = [];
+	for (let i = 1; i <= n; i++) {
+		if (i % 3 == 0 && i % 5 == 0) {
+			rN.push('fizzbuzz');
+		}
+	}
+
+	return rN;
+	
 }
 
 //Multiple of number example
