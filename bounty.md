@@ -6,6 +6,7 @@
    - *its worth 0.0009 bitcoin For you to claim this Reward you need to Open an Issue and Label it Enerings Claim and Solve this in the file bounty.1.js*
    - **Note:** Claimed https://www.blockchain.com/btc/tx/cd03ac15fd0bf320df43f49f1b8ba090ae12053f2e09de4a7d5be75169a47667
 <strong>Bounty #2 its worth 0.0009 bitcoin commit your code to the bounty.2.js file</strong>
+ - **Note:** Claimed https://www.blockchain.com/btc/tx/6bc14369ec012225e74fa9c667f21c20bd7c6a1987ffc2d3988ec7fb1b2ab4e2
 /**
  * Fizz Buzz
  *
