@@ -15,7 +15,7 @@ Or by making an equal Amount of Contribution with Skill
 
 <strong>low-level</strong><em>Where Everyone Starts</em>
 
-New members are 04-24-2019 - 04-25-2019
+New members are 04-24-2019 - 05-1-2019
 
 https://github.com/poissonRouge 
 Earned Btc for Forking Pending btc address for Payout
@@ -26,6 +26,8 @@ Earned Btc for Forking Watching and Staring https://www.blockchain.com/btc/tx/cd
 
 
 https://github.com/lablnet
+
+https://github.com/fahadmaqsood
 
 Paid out https://www.blockchain.com/btc/tx/8c143d0c82924b866a1dd3379c9712ff67575ddd24b17985af48a96ce409a0a2
 For Watching, Staring, Forking
