@@ -27,13 +27,13 @@ Earned Btc for Forking Watching and Staring https://www.blockchain.com/btc/tx/cd
 
 https://github.com/lablnet
 
-https://github.com/fahadmaqsood
-My bitcoin wallet: 17maP3DRdxN11Rmn5sKarWnA7xSZekoRTR
-My Email address: qazifahadmaqsood@gmail.com
-
 Paid out https://www.blockchain.com/btc/tx/8c143d0c82924b866a1dd3379c9712ff67575ddd24b17985af48a96ce409a0a2
 For Watching, Staring, Forking
 
-Bounty 1 reward https://www.blockchain.com/btc/tx/cd03ac15fd0bf320df43f49f1b8ba090ae12053f2e09de4a7d5be75169a47667
+Bounty 1 reward: https://www.blockchain.com/btc/tx/cd03ac15fd0bf320df43f49f1b8ba090ae12053f2e09de4a7d5be75169a47667
+Bounty 2 Reward: 
 
-
+https://github.com/fahadmaqsood
+My bitcoin wallet: 17maP3DRdxN11Rmn5sKarWnA7xSZekoRTR
+My Email address: qazifahadmaqsood@gmail.com
+paid out: https://www.blockchain.com/btc/tx/95664544d7062a60df66f0beedcabf8511f064d43681a5eff3f9da3e558f01f7
