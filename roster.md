@@ -33,7 +33,11 @@ For Watching, Staring, Forking
 Bounty 1 reward: https://www.blockchain.com/btc/tx/cd03ac15fd0bf320df43f49f1b8ba090ae12053f2e09de4a7d5be75169a47667
 Bounty 2 Reward: 
 
-https://github.com/fahadmaqsood
-My bitcoin wallet: 17maP3DRdxN11Rmn5sKarWnA7xSZekoRTR
-My Email address: qazifahadmaqsood@gmail.com
-paid out: https://www.blockchain.com/btc/tx/95664544d7062a60df66f0beedcabf8511f064d43681a5eff3f9da3e558f01f7
+https://github.com/fahadmaqsood  
+My bitcoin wallet: 17maP3DRdxN11Rmn5sKarWnA7xSZekoRTR  
+My Email address: qazifahadmaqsood@gmail.com  
+paid out: https://www.blockchain.com/btc/tx/95664544d7062a60df66f0beedcabf8511f064d43681a5eff3f9da3e558f01f7  
+  
+https://github.com/aichen1  
+Wallet: 1EqQvebeT1UfPojHcKbFwFrH5amcHztYq3  
+Email: aichen262@gmail.com  
