@@ -40,3 +40,5 @@ Relevant Info here is a Cheat Sheet for new Git Hub users https://www.git-tower.
 
 
 <h5>For any unrewarded payment claims please message our founder fb.com/googolaire</h5>
+<p>If you seem to be spam we will not send you payment. If you do not have any other contributions we will not accept you.</p>
+                                                  <em>We are a not for profit</em> 
